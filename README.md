@@ -1,8 +1,11 @@
 # Wilkommen auf meinem GitHub Profil! <h1> 
-## Mein Name ist Ediz und ich bin ein 14 jähriger Web-Developer.
 
+ Fragen | Angaben
+------------ | -------------
+Name | Ediz
+Alter | 14 
+Programmiersprachen | Javascript, Php, Python
+Schulform | Gymnasium
+Klasse | 9.
+GitHub seit | 28.10.2018
 
-# Meine Projekt Liste
-1. Projekt 1
-1. Projekt 2
-1. Projekt 3
